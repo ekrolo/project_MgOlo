@@ -14,6 +14,10 @@ Page 2 - Page 2 is dedicated to the king, Lebron James. All achievements from hi
 
 Page 3 - Page 3 is for the Mamba, Kobe Bryant. His "Mamba Mentality" will be displayed here along with his achievements as well. His years with Shaq as a teammate as well as his 81 point game will definitely be shown here. 
 
-Page 4 - Page 4 is for Honorable Mentions. To name a few they are: Steph Curry, Kareem Abdul Jabbar, Wilt Chamberlain, and Bill Russell. Short descriptions about each player will be here. 
+Page 4 - Page 4 is for Honorable Mentions. To name a few they are: Steph Curry, Kareem Abdul Jabbar, and Shaquille O'Neal. Short descriptions about each player will be here. 
 
- Website Outline: 
+ Website Outline:   
+
+Outline of website in canva: 
+
+[Q1 Project Outline] (https://www.canva.com/design/DAFMWGDkuk4/lWDJH-SVFZsK8QAPfFtNow/edit?utm_content=DAFMWGDkuk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
