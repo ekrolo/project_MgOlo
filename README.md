@@ -8,7 +8,8 @@ Page Description:
 
 Home Page: The home page will contain a menu where you can access the other pages and also a simple description of the website as well as some contact info at the bottom.
 
-** comment from Mam Aline - please actual webpage title in the outline below and also in the wireframe for the homepage, replace the generic text link to the actual name of the page they link to (this is not graded yet) will wait until you made the revision...good luck **  
+**comment from Mam Aline - please actual webpage title in the outline below and also in the wireframe for the homepage, replace the generic text link to the actual name of the page they link to (this is not graded yet) will wait until you made the revision...good luck**  
+
 **Page 1** - Page 1 is dedicated to Michael Jordan, his achievements and more. This is basically his "trophy room". All things from his career that are notable and iconic will be placed here. The way the Detroit Pistons tried to injure him out of the NBA and more.  
 
 **Page 2** - Page 2 is dedicated to the king, Lebron James. All achievements from his 18 year (and counting) career will be displayed here. His iconic rivalry with the Warriors and Steph Curry will also be here. 
