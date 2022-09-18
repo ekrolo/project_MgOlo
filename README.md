@@ -22,4 +22,4 @@ Home Page: The home page will contain a menu where you can access the other page
 
 Outline of website in canva: 
 
-[Q1 Project Outline] (https://www.canva.com/design/DAFMWGDkuk4/lWDJH-SVFZsK8QAPfFtNow/edit?utm_content=DAFMWGDkuk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[NBA: Who is the G.O.A.T?] (https://www.canva.com/design/DAFMWGDkuk4/lWDJH-SVFZsK8QAPfFtNow/edit?utm_content=DAFMWGDkuk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
