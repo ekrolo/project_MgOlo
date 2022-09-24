@@ -18,8 +18,14 @@ Home Page: The home page will contain a menu where you can access the other page
 
 **Page 4** - Page 4 is for Honorable Mentions. To name a few they are: Steph Curry, Kareem Abdul Jabbar, and Shaquille O'Neal. Short descriptions about each player will be here. 
 
- Website Outline:   
 
+**Page 5** - Accesible by clicking on the "About the NBA" button on top of the home page, it provides a background of the NBA and some interesting info and trivia. 
+
+ **Page 6** - Sources Page, includes all sources of pictures and things that are not mine used in the website.
+
+ Website Outline:   
 Outline of website in canva: 
 
 [NBA: Who is the G.O.A.T?] (https://www.canva.com/design/DAFMWGDkuk4/lWDJH-SVFZsK8QAPfFtNow/edit?utm_content=DAFMWGDkuk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Website Progress (replit): https://replit.com/join/vlsvbmukyl-elijah-khallelk
