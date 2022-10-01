@@ -29,3 +29,5 @@ Outline of website in canva:
 [NBA: Who is the G.O.A.T?] (https://www.canva.com/design/DAFMWGDkuk4/lWDJH-SVFZsK8QAPfFtNow/edit?utm_content=DAFMWGDkuk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Website Progress (replit): https://replit.com/join/vlsvbmukyl-elijah-khallelk
+
+October 1: New Commit, made footer for website homepage, started making the contents for first three pages.
