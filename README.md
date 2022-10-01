@@ -30,4 +30,7 @@ Outline of website in canva:
 
 Website Progress (replit): https://replit.com/join/vlsvbmukyl-elijah-khallelk
 
-October 1: New Commit, made footer for website homepage, started making the contents for first three pages.
+October 1 commit: 
+- Created footer for home page
+- Progress on pages 1,2,3
+- Added links to different NBA websites
