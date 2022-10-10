@@ -34,3 +34,8 @@ October 1 commit:
 - Created footer for home page
 - Progress on pages 1,2,3
 - Added links to different NBA websites
+
+October 10 commit: 
+- Used overflow and float property in honorable mentions page
+- Tweaked some pages in design
+- Made lots of progress in Honorable Mentions page. 
