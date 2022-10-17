@@ -39,3 +39,8 @@ October 10 commit:
 - Used overflow and float property in honorable mentions page
 - Tweaked some pages in design
 - Made lots of progress in Honorable Mentions page. 
+
+October 17 commit: 
+-Finished Honorable Mentions Page
+-Started putting body and structure and filling in Pages 1 and 2.
+
