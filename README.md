@@ -44,3 +44,6 @@ October 17 commit:
 -Finished Honorable Mentions Page
 -Started putting body and structure and filling in Pages 1 and 2.
 
+October 22 commit: 
+-Finished Pages 1 and 2
+-Finished 3 Total Pages (not including Home Page)
