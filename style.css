@@ -1,0 +1,131 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+ #title {
+        padding: 10px;
+        font-size: 40px;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        color: rgba(255,255,255,1);
+        background-color: rgba(50,50,50,0.75);
+        display: inline-block;
+        margin: 1% auto;
+        width: 50%;
+        
+ }
+ h1 {
+        padding: 10px;
+        font-size: 40px;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        color: rgba(255,255,255,1);
+        background-color: rgba(50,50,50,0.75);
+        margin: auto;
+      }
+
+      .description {
+        padding: 20px;
+        font-family: 'Montserrat', sans-serif;
+        background-color: rgba(50,50,50,0.75);
+        text-align: center;
+        color: white;
+        word-spacing: 5px;
+
+      }
+      .descriptionHMleft {
+        padding: 10px;
+        font-family: 'Montserrat', sans-serif;
+        background-color: rgba(50,50,50,0.75);
+        text-align: left;
+        color: white;
+        overflow: auto;
+        width: 45%;
+        float: left;
+      }
+    .descriptionHMright {
+        padding: 10px;
+        font-family: 'Montserrat', sans-serif;
+        background-color: rgba(50,50,50,0.75);
+        text-align: right;
+        color: white;
+        overflow: auto;
+        width: 45%;
+        float: left;
+      }
+    .HMcontainer {
+      padding: 15px;
+    }
+    .HMchild {
+      padding: 20px;
+      float: left;
+    }
+
+h3 {
+  font-size: 15px; 
+  text-align: center; 
+  font-family: 'Montserrat', sans-serif;
+  color: rgba(255,255,255,1);
+  background-color: rgba(50,50,50,0.75);
+  margin: auto;
+  display: inline-block;
+}
+      nav{
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(0,0,0,0.8);
+  position: sticky;
+}
+.nav-links{
+  flex: 1;
+  text-align: left;
+  position: sticky;
+}
+.nav-links ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px 0px 0px 20px;
+  position: sticky;
+}
+.nav-links ul li a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+.nav-links ul li ::after{
+  content: '';
+  width: 0%;
+  height: 2px;
+  background: white;
+  display: block;
+  margin: auto;
+  transition: 0.5s;
+}
+.nav-links ul li :hover::after{
+  width: 100%;
+}
+
+.footer{
+  background-color: rgba(0,0,0,0.8);
+  margin-top: 5% ;
+  padding: 8px 0px 8px 30px;
+}
+.footerstyle ul li{
+  display: flex;
+  justify-content: left;
+}
+.footerstyle ul li a{
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+.playerimages{
+  margin-right: 4%;
+}
+
+#chef {
+  position: 
+}
